@@ -32,5 +32,5 @@ python3 ExtractorAudWave.py -f output.wav
 ```
 
 ### Video Demo
-[![How to control android camera]([(https://img.youtube.com/vi/LAVbDnfQD1I/0.jpg))](https://www.youtube.com/watch?v=LAVbDnfQD1I)
+[![How to control android camera](https://img.youtube.com/vi/LAVbDnfQD1I/0.jpg)](https://www.youtube.com/watch?v=LAVbDnfQD1I)
 #### For More Video subcribe <a href="http://youtube.com/@BinaryBiteSeccurity">Binary Bite Security YouTube Channel</a>
